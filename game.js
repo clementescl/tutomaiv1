@@ -58,7 +58,7 @@ async function dare() {
 }
 
 async function openAIRequest(prompt) {
-  const apiKey = "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";
+  const apiKey = "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";
   const url = "https://api.openai.com/v1/engines/text-davinci-002/completions";
   const headers = {
     "Content-Type": "application/json",
